@@ -9,6 +9,9 @@ function App(){
   <Footer />
   <Info />
   <Info />
+  <Info />
+  <Info />
+  <Info />
 </div>
   );
 }
